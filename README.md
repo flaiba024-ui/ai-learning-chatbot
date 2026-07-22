@@ -21,16 +21,15 @@ I built this project while following the **Kamran AI Insight AI Automation Bootc
 
 ### Workflow
 
-![Workflow](screenshots/workflow.png)
+![Workflow](workflow.png)
 
 ### Chat Example
 
-![Chat Example](screenshots/chatbot-answer.png)
+![Chat Example](chatbot-answer.png)
 
 ### Memory Example
 
-![Memory Example](screenshots/memory-demo.png)
-
+![Memory Example](memory-demo.png)
 ## 📂 Project Files
 
 - `ai-learning-chatbot.json` – n8n workflow
