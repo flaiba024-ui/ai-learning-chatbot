@@ -35,7 +35,3 @@ I built this project while following the **Kamran AI Insight AI Automation Bootc
 
 - `ai-learning-chatbot.json` – n8n workflow
 - `screenshots/` – Project images
-
-## 🙏 Acknowledgement
-
-This project was created as part of the **Kamran AI Insight AI Automation Bootcamp**, where I learned the fundamentals of AI automation and n8n workflows.
