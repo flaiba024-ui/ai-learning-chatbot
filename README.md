@@ -25,7 +25,7 @@ I built this project while following the **Kamran AI Insight AI Automation Bootc
 
 ### Chat Example
 
-![Chat Example](chatbot-answer.png)
+![Chat Example](Chatbot-answer.png)
 
 ### Memory Example
 
